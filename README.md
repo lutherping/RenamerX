@@ -2,6 +2,8 @@
 
 一款基于 Wails v2 (Go + Vue 3) 的桌面级批量文件/文件夹重命名工具。
 
+<img width="993" height="758" alt="image" src="https://github.com/user-attachments/assets/732c7bff-427d-48d2-95b0-c95cdca6f266" />
+
 ## ✨ 功能特性
 
 - **双模式工作流**：选择工作目录 → 切换操作对象（子文件夹名 / 子文件名）
